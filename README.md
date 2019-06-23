@@ -13,6 +13,8 @@ Run: make -C tf_ctpn/lib
 
 After you run python3 Main.py in Opencv the imgCrop.png file is sent to the data1 file (change the destination as per your requirements).
 
+Finally run python3 infer.py the CRNN output is displayed on the terminal.
+
 
 
 
